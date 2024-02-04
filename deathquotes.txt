@@ -1,119 +1,114 @@
-# WEIRD MESSAGES (NAME NOT FIRST)
-
-<green>${{player_name}} <white>decided that ${{player_name}} has caused them enough problems already
-Crazy? <green>${{player_name}} <white>was crazy once. So they put them in a room. A rubber room. A rubber room with rats. A rubber room with rats? I hate rubber rats. Rats drive me crazy. Crazy? ${{player_name}} was crazy once....
-It's so over for <green>${{player_name}}
-It seems <green>${{player_name}}<white>'s armour worked as well as the "kinetic sun" did in Eurovision 2022
-the universe decided that <green>${{player_name}}<white> should touch grass
-why didn't <green>${{player_name}}<white> look both ways before crossing the tracks?
-Who cares? <green>${{player_name}}<white> does
-
-# NORMAL MESSAGES (NAME FIRST)
-
-<green>${{player_name}} <white>was hit by a Falcon 9
-<green>${{player_name}} <white>went inside the Launch Exclusion Zone
-<green>${{player_name}} <white>shouldn't have jumped out of the capsule
-<green>${{player_name}} <white>was spaced
-<green>${{player_name}} <white>just.... died
-<green>${{player_name}} <white>fell into the combustion chamber
-<green>${{player_name}} <white>decided to stand on top of the launch tower
-<green>${{player_name}} <white>couldn't use the Chopsticks correctly
-<green>${{player_name}} <white>had a booster dropped on their heads
-<green>${{player_name}} <white>went to Jordan 💀
-<green>${{player_name}} <white>was living in a village downrange from the launch site in China
-<green>${{player_name}} <white>didn't fly safe
-<green>${{player_name}} <white>got skillet'd
-<green>${{player_name}} <white>couldn't run fast enough
-<green>${{player_name}} <white>walked in front of the NSF camera
-<green>${{player_name}} <white>didn't wear proper ear protection
-<green>${{player_name}} <white>died
-<green>${{player_name}} <white>was sent to Siberia
-<green>${{player_name}} <white>was sitting in a restaurant in Donetsk celebrating his birthday
-<green>${{player_name}} <white>should've dodged the missile
-<green>${{player_name}} <white>got hit by a surface to air missile
-<green>${{player_name}} <white>should load up Call Of Duty instead
-<green>${{player_name}} <white>experienced a RUD
-<green>${{player_name}} <white>broke up in Max-Q
-<green>${{player_name}}'<white>s Flight Termination System was activated
-<green>${{player_name}} <white>pulled a SN11
-<green>${{player_name}} <white>pulled a SN10
-<green>${{player_name}} <white>pulled a SN9
-<green>${{player_name}} <white>pulled a SN8
-<green>${{player_name}} <white>should be more careful next time
-<green>${{player_name}} <white>visited Florida
-<green>${{player_name}} <white>got JFK'd
-<green>${{player_name}} <white>joined Roscosmos
-<green>${{player_name}} <white>got Prigozhin'd
-<green>${{player_name}} <white>pulled a N1
-<green>${{player_name}} <white>tried to trainsurf but with a rocket
-<green>${{player_name}} <white>was a balloon, happily floating along over the continental US, when they got blasted out of the air with an AIM-9X Sidewinder
-<green>${{player_name}} <white>fell out of a plane
-<green>${{player_name}} <white>got coronary heart disease
-<green>${{player_name}} <white>needs to go back to bed
-<green>${{player_name}} <white>was put in a box
-<green>${{player_name}} <white>started a 3 day "special military operation"
-<green>${{player_name}} <white>tried to chill out in a pool of liquid oxygen
-<green>${{player_name}} <white>burned engine rich
-<green>${{player_name}} <white>pulled an Astra
-<green>${{player_name}} <white>is so back
-<green>${{player_name}} <white>failed their exams
-<green>${{player_name}} <white>lived as well as Britain did in Eurovision 2023
-<green>${{player_name}} <white>got sent to the hypnotist
-<green>${{player_name}} <white>was hit by a truck
-<green>${{player_name}} <white>fell off a bridge
-<green>${{player_name}} <white>broke all of their bones
-<green>${{player_name}} <white>has no bones remaining
-<green>${{player_name}} <white>got turned into jelly
-<green>${{player_name}} <white>was put in Dr Chris Combe's hypersonic wind machine
-<green>${{player_name}} <white>was found by the DEA
-<green>${{player_name}} <white>didn't cook right
-<green>${{player_name}} <white>didn't break bad
-<green>${{player_name}} <white>was killed by Walter White
-<green>${{player_name}} <white>was killed by Jesse
-<green>${{player_name}} <white>should try to die less
-<green>${{player_name}} <white>was hit by a meteor
-<green>${{player_name}} <white>was killed by [The Military Industrial Complex]
-<green>${{player_name}} <white>tried to eat vegetables
-<green>${{player_name}} <white>was killed by McDonalds
-<green>${{player_name}} <white>tried to take Taiwan
-<green>${{player_name}} <white>was sent to the gulag. Survive to earn redeployment to the Warzone!
-<green>${{player_name}} <white>took the easy way out
-<green>${{player_name}} <white>was hit by a bulldozer
-<green>${{player_name}} <white>was cut up by a chainsaw
-<green>${{player_name}} <white>flew on Ryanair
-<green>${{player_name}} <white>shouldn't have tried to enter the airport with a concealed weapon
-<green>${{player_name}} <white>went on a cruise to nowhere
-<green>${{player_name}} <white>drove on the wrong side of the road
-<green>${{player_name}} <white>was a Karen
-<green>${{player_name}} <white>tried to enter the Nether in real life
-<green>${{player_name}} <white>couldn't clutch up
-<green>${{player_name}} <white>tried to become Elon Ma
-<green>${{player_name}} <white>got turned into spam
-<green>${{player_name}} <white>tried to propulsively land in the lunar regolith
-<green>${{player_name}} <white>invested in a smallsat launch startup
-<green>${{player_name}}?<white> aww man so we back in the mine got our pickaxe swinging from side to side side-side to side
-<green>${{player_name}} <white>has won the darwin award
-<green>${{player_name}} <white>has violated ITAR
-<green>${{player_name}} <white>participated in nonconsensual knife play
-<green>${{player_name}} <white>mined at night
-<green>${{player_name}} <white>looked at that cave and felt kind of brave
-<green>${{player_name}} <white>got on the wrong side of known war criminal Eric Berger
-<green>${{player_name}} <white>looked at the controversies section of the wikipedia page about someone they looked up to
-<green>${{player_name}} <white>used to rule the world
-<green>${{player_name}} <white>became a flat earther
-<green>${{player_name}} <white>uses arch btw
-<green>${{player_name}} <white>got caught stealing IP (intellectual property) from LM (Lockheed Martin)
-<green>${{player_name}} <white>would like to inform you about your car's extended warranty
-<green>${{player_name}} <white>HAS FALLEN INTO THE RIVER IN LEGO CITY! START THE RESCUE HELICOPTER
-<green>${{player_name}} <white>has made a mess of the pristinely cleaned floor.
-<green>${{player_name}} <white>has made a miner spelling mistake
-<green>${{player_name}} <white>thinks that Falcon 9 is shuttle-derived
-<green>${{player_name}} <white>knows that Falcon 9 is shuttle-derived
-<green>${{player_name}} <white>knows that Falcon 9 is not shuttle-derived
-<green>${{player_name}} <white>has become an SLS stan
-<green>${{player_name}} <white>has become a Starship stan
-<green>${{player_name}} <white>tried to run heavily modded KSP on their 4gb laptop from 2005
-<green>${{player_name}} <white>was murdered.
-<green>${{player_name}} <white>attempted a crewed spinlaunch mission
-<green>${{player_name}} <white>pulled a TSE
-<green>${{player_name}} <white>fell off a cliff
+${{player_name}} was hit by a Falcon 9
+${{player_name}} went inside the Launch Exclusion Zone
+${{player_name}} shouldn't have jumped out of the capsule
+${{player_name}} was spaced
+${{player_name}} just.... died
+${{player_name}} fell into the combustion chamber
+${{player_name}} decided to stand on top of the launch tower
+${{player_name}} couldn't use the Chopsticks correctly
+${{player_name}} had a booster dropped on their heads
+${{player_name}} went to Jordan 💀
+${{player_name}} was living in a village downrange from the launch site in China
+${{player_name}} didn't fly safe
+${{player_name}} got skillet'd
+${{player_name}} couldn't run fast enough
+${{player_name}} walked in front of the NSF camera
+${{player_name}} didn't wear proper ear protection
+${{player_name}} died
+${{player_name}} was sent to Siberia
+${{player_name}} was sitting in a restaurant in Donetsk celebrating his birthday
+${{player_name}} should've dodged the missile
+${{player_name}} got hit by a surface to air missile
+${{player_name}} should load up Call Of Duty instead
+${{player_name}} experienced a RUD
+${{player_name}} broke up in Max-Q
+${{player_name}}'s Flight Termination System was activated
+${{player_name}} pulled a SN11
+${{player_name}} pulled a SN10
+${{player_name}} pulled a SN9
+${{player_name}} pulled a SN8
+${{player_name}} should be more careful next time
+${{player_name}} visited Florida
+${{player_name}} got JFK'd
+${{player_name}} joined Roscosmos
+${{player_name}} got Prigozhin'd
+${{player_name}} pulled a N1
+${{player_name}} tried to trainsurf but with a rocket
+${{player_name}} was a balloon, happily floating along over the continental US, when they got blasted out of the air with an AIM-9X Sidewinder
+${{player_name}} fell out of a plane
+${{player_name}} got coronary heart disease
+${{player_name}} needs to go back to bed
+${{player_name}} was put in a box
+Crazy? ${{player_name}} was crazy once. So they put them in a room. A rubber room. A rubber room with rats. A rubber room with rats? I hate rubber rats. Rats drive me crazy. Crazy? ${{player_name}} was crazy once....
+${{player_name}} started a 3 day "special military operation"
+${{player_name}} tried to chill out in a pool of liquid oxygen
+${{player_name}} burned engine rich
+${{player_name}} pulled an Astra
+It's so over for ${{player_name}}
+${{player_name}} is so back
+${{player_name}} failed their exams
+${{player_name}} lived as well as Britain did in Eurovision 2023
+${{player_name}} got sent to the hypnotist
+It seems ${{player_name}}'s armour worked as well as the "kinetic sun" did in Eurovision 2022
+${{player_name}} was hit by a truck
+${{player_name}} fell off a bridge
+${{player_name}} broke all of their bones
+${{player_name}} has no bones remaining
+${{player_name}} got turned into jelly
+${{player_name}} was put in Dr Chris Combe's hypersonic wind machine
+${{player_name}} was found by the DEA
+${{player_name}} didn't cook right
+${{player_name}} didn't break bad
+${{player_name}} was killed by Walter White
+${{player_name}} was killed by Jesse
+${{player_name}} should try to die less
+${{player_name}} was hit by a meteor
+${{player_name}} was killed by [The Military Industrial Complex]
+${{player_name}} tried to eat vegetables
+${{player_name}} was killed by McDonalds
+${{player_name}} tried to take Taiwan
+${{player_name}} was sent to the gulag. Survive to earn redeployment to the Warzone!
+${{player_name}} took the easy way out
+${{player_name}} was hit by a bulldozer
+${{player_name}} was cut up by a chainsaw
+${{player_name}} flew on Ryanair
+${{player_name}} shouldn't have tried to enter the airport with a concealed weapon
+${{player_name}} went on a cruise to nowhere
+${{player_name}} drove on the wrong side of the road
+${{player_name}} was a Karen
+${{player_name}} tried to enter the Nether in real life
+${{player_name}} couldn't clutch up
+${{player_name}} tried to become Elon Ma
+${{player_name}} got turned into spam
+${{player_name}} tried to propulsively land in the lunar regolith
+${{player_name}} decided that ${{player_name}} has caused them enough problems already
+the universe decided that ${{player_name}} should touch grass
+${{player_name}} invested in a smallsat launch startup
+why didn't ${{player_name}} look both ways before crossing the tracks?
+${{player_name}}? aww man so we back in the mine got our pickaxe swinging from side to side side-side to side
+${{player_name}} has won the darwin award
+${{player_name}} has violated ITAR
+${{player_name}} participated in nonconsensual knife play
+${{player_name}} mined at night
+${{player_name}} looked at that cave and felt kind of brave
+${{player_name}} got on the wrong side of known war criminal Eric Berger
+${{player_name}} looked at the controversies section of the wikipedia page about someone they looked up to
+${{player_name}} used to rule the world
+${{player_name}} became a flat earther
+${{player_name}} uses arch btw
+${{player_name}} got caught stealing IP (intellectual property) from LM (Lockheed Martin)
+${{player_name}} would like to inform you about your car's extended warranty
+${{player_name}} HAS FALLEN INTO THE RIVER IN LEGO CITY! START THE RESCUE HELICOPTER
+Who cares? ${{player_name}} does
+${{player_name}} has made a mess of the pristinely cleaned floor.
+${{player_name}} has made a miner spelling mistake
+${{player_name}} thinks that Falcon 9 is shuttle-derived
+${{player_name}} knows that Falcon 9 is shuttle-derived
+${{player_name}} knows that Falcon 9 is not shuttle-derived
+${{player_name}} has become an SLS stan
+${{player_name}} has become a Starship stan
+${{player_name}} tried to run heavily modded KSP on their 4gb laptop from 2005
+${{player_name}} was murdered.
+${{player_name}} attempted a crewed spinlaunch mission
+${{player_name}} pulled a TSE
+${{player_name}} fell off a cliff
