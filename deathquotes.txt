@@ -110,3 +110,5 @@ ${{player_name}} has become a Starship stan
 ${{player_name}} tried to run heavily modded KSP on their 4gb laptop from 2005
 ${{player_name}} was murdered.
 ${{player_name}} attempted a crewed spinlaunch mission
+${{player_name}} pulled a TSE
+${{player_name}} fell off a cliff
