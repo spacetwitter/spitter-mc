@@ -130,3 +130,8 @@ ${{player_name}} was voted out for being sus
 ${{player_name}} joined Common Sense Skeptic
 ${{player_name}} didn't attend the Ares 1x Church
 ${{player_name}} did a real-time mission to Pluto
+${{player_name}} got caught starting forest fires
+${{player_name}}'s head is desireable
+${{player_name}} became a boeing wistleblower
+${{player_name}} decided to take a nice helicopter crash in a remote, mountainous area about 58km (36 miles) south of the Qiz-Qalasi Dam
+According to all known laws of aviation, there is no way a ${{player_name}} should be able to fly. ${{player_name}}, of course, tried anyways.
